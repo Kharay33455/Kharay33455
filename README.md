@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kharay33455
 - 👀 I’m interested in all forms of software development
-- 🌱 I’m currently learning Tensorflow
-- 💞️ I’m looking to collaborate on anything
+- 🌱 I’m currently learning to program
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me ...shakibkhan276337@gmail.com
 - 😄 Pronouns: ...HE/DEV
 - ⚡ Fun fact: ...Fishes live in water
